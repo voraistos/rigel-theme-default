@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-theme-vanilla",
+	"id": "rigel-theme-default",
 	"library": "./lib/theme.js",
 	"hooks": [
 		{
@@ -7,6 +7,6 @@
 		}
 	],
 	"scripts": [
-		"lib/vanilla.js"
+		"lib/default.js"
 	]
 }
