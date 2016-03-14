@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-vanilla",
-    "name": "Vanilla",
-    "description": "A simple forum layout with a Modern UI inspired homepage.",
-    "url": "https://github.com/NodeBB/nodebb-theme-vanilla",
+    "id": "rigel-theme-default",
+    "name": "Default",
+    "description": "The default theme for Rigel",
+    "url": "https://github.com/voraistos/rigel-theme-default",
     "screenshot": "screenshot.png"
 }
